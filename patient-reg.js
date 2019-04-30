@@ -1,4 +1,3 @@
-// var id, name, age, gender, adress, city, phone, polyclinic, addiction, status;
 
 var patients = [];
 
